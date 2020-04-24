@@ -7,8 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-	<h2> 깃 테스트 하림 </h2>
-	<h2>gdgdgd22 시항</h2>
+	<h3>깃 테스트 </h3>
+	
+	<!-- 마스터 version_1.0 -->
+	
+	<h1>tasic 로컬 브런치</h1>
+	
 </body>
 </html>
